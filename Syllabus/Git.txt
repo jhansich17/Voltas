@@ -1,0 +1,13 @@
+Git
+TortoiseGit
+
+
+============================================
+
+Local Repo - Git
+Central Repo - GitHub
+
+
+
+
+

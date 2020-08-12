@@ -1,0 +1,16 @@
+Java
+Selenium
+Maven
+TestNG
+Cucumber
+JUnit
+GitHub - Repository - VCS
+Jenkins
+SQL Database
+POM framework
+Rest API
+
+
+IDE:
+Eclipse
+IntelliJ

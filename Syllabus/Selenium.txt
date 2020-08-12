@@ -1,0 +1,25 @@
+ChroPath
+Katalon Recorder
+
+Automation Testing
+
+Automation - Selenium
+Testing - TestNG, Cucumber, JUnit
+
+100%
+5-10%
+
+XPath - 50% -- XPath functions & axis
+
+Enter Text
+Click - button, radio button, check box
+
+Mouse & Keyboard - Actions
+Window handling
+Frame handling
+Pop-up handling(Alerts)
+File upload & download
+screenshot
+javascript executor
+scroll down & scroll up
+
