@@ -14,3 +14,11 @@ Rest API
 IDE:
 Eclipse
 IntelliJ
+
+
+
+Java,Selenium,TestNG,Cucumber,POM framework
+Maven,SQL,API Testing
+GitHub,Jenkins, Agile methodology
+
+

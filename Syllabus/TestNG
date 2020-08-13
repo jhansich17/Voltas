@@ -1,0 +1,36 @@
+Automation + Testing
+
+Automation - UI, API, Performance, Mobile, Security
+
+Selenium - UI
+Appium - Mobile
+API  - Postman, SoapUI, Rest Assured
+
+
+Testing:
+TestNG
+Cucumber
+JUnit
+
+
+
+Installation:
+1. Install it from eclipse market place
+2. Add dependency
+
+================================================
+Annotations
+Assert statements
+Test.xml file
+different ways of running your testcases
+
+
+Write testcases > push code github > jenkins will pull latest code from github > 
+jenkins job config > run job> runs all testcases > genarates reports > trigger mail with reports 
+
+
+
+
+
+
+ 
